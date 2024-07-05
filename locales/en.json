@@ -1,0 +1,15 @@
+{
+  "200": "Success",
+  "100": "Failure",
+  "100001": "Address cannot be empty",
+  "100002": "Signature information cannot be empty",
+  "100003": "Signature error",
+  "100004": "Not logged in",
+  "100005": "Login has expired",
+  "100006": "Email cannot be empty",
+  "100007": "Email format is abnormal",
+  "100008": "Insufficient permissions, please log in first",
+  "100009": "ID cannot be empty",
+  "100010": "Failed to retrieve exchange rate",
+  "100011": "Property do not exist"
+}
